@@ -1,19 +1,19 @@
 
 //Required imports
-import java.util.List;
-import java.util.*;
-import java.io.*;
-import java.nio.file.*;
-import java.nio.charset.StandardCharsets;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.BufferedImage;
+import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.*;
+import java.util.*;
+import java.util.List;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.border.*;
 
 public class Main implements ActionListener {
-    // Creating the JFrame
+    // Creating the JFrame test
     JFrame frame;
     JPanel title; // stores the header label
     JButton retry;
